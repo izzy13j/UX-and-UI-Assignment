@@ -15,7 +15,7 @@ Team will Develop/Revamp the EIT App and Website with additional features (to th
 - Register (First Name, Last Name, Phone Number etc.)
 - Login (Login with User Name, Email or Phone Number then enter Password)  
 
-2. **Campus Select feature where any student enrolled with EIT from around the country can Login and have features (Once Logged in) such as:
+2. **Campus Select feature where any student enrolled with EIT from around the country can Login and have features (Once Logged in) such as:**
 - Campus Select (select what campus you're attending e.g Auckland, Taradale Gisborne etc.)
 
 Once inside your selected Campus
